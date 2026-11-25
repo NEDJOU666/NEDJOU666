@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Nedjou%20Destin%20Tresor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=56&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Nedjou%20Destin%20Tresor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=56&descSize=18" width="100%" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NEDJOU666">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nedjou+Destin+Tresor;Full-Stack+Web+%26+Mobile+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Flutter+%E2%80%A2+Django;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nedjou+Destin+Tresor;Full-Stack+Web+%26+Mobile+Developer;Cybersecurity+%26+Ethical+Hacking+%F0%9F%94%90;React+%E2%80%A2+TypeScript+%E2%80%A2+Flutter+%E2%80%A2+Django;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,13 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **full-stack web & mobile developer** who enjoys building complete products — from the database to the pixel on the screen.
+I'm a **full-stack web & mobile developer** and **cybersecurity enthusiast** who enjoys building complete products — and making sure they're secure, from the database to the pixel on the screen.
 
 - 🔭 Building **exam systems, hotel management, e-learning portals & job apps**
 - 🌐 Frontend with **React, TypeScript & Tailwind**
 - 📱 Mobile apps with **Flutter (Dart)** and **Kotlin**
 - ⚙️ Backend with **Node.js / Express** and **Django**
+- 🔐 Cybersecurity: **penetration testing, network security & secure coding (OWASP)**
 - 🎨 UI/UX design in **Figma**
 - 🌱 Currently leveling up in **Next.js, cloud & DevOps**
 - 🤝 Open to **freelance work, internships & collaborations**
@@ -43,9 +44,9 @@ I'm a **full-stack web & mobile developer** who enjoys building complete product
 
 ### ⚡ Quick Facts
 
-| 💼 Role | 🛠️ Main Stack | 📱 Mobile | 🎯 Focus |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Developer | React · TypeScript · Node | Flutter · Kotlin | Clean, scalable apps |
+| 💼 Role | 🛠️ Main Stack | 📱 Mobile | 🔐 Security | 🎯 Focus |
+|:---:|:---:|:---:|:---:|:---:|
+| Full-Stack Developer | React · TypeScript · Node | Flutter · Kotlin | Pentesting · Network Security | Secure, scalable apps |
 
 ---
 
@@ -89,6 +90,64 @@ I'm a **full-stack web & mobile developer** who enjoys building complete product
 <td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman,vercel,figma&theme=dark" alt="tools" /></td>
 </tr>
 </table>
+
+---
+
+<!-- ═══════════════════════════ CYBERSECURITY ═══════════════════════════ -->
+## 🔐 Cybersecurity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Areas of Focus**
+- 🕵️ Penetration Testing & Ethical Hacking
+- 🌐 Web Application Security (OWASP Top 10)
+- 📡 Network Security & Traffic Analysis
+- 🔍 Vulnerability Assessment & Reconnaissance
+- 🧑‍💻 Secure Coding & Authentication
+- 🐧 Linux Hardening & Bash Scripting
+
+</td>
+<td width="50%" valign="top">
+
+**🧪 Learning Path**
+- ✅ Networking fundamentals (TCP/IP, DNS, HTTP)
+- ✅ Linux command line & scripting
+- 🔄 Web exploitation & bug bounty
+- 🔄 CTF challenges (TryHackMe / Hack The Box)
+- 🎯 Goal: security certifications (e.g. CompTIA Security+, eJPT)
+
+</td>
+</tr>
+</table>
+
+**🧰 Security Toolkit**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor" />
+</p>
+
+**🎯 Practice Platforms**
+
+<p align="left">
+  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
+  <!-- ✏️ Have a TryHackMe account? Replace YOUR_THM_USERNAME with your username and uncomment to show your live rank badge:
+  <br/><img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe badge" />
+  -->
+</p>
 
 ---
 
