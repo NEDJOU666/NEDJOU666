@@ -34,6 +34,7 @@ I'm a **full-stack web & mobile developer** and **cybersecurity enthusiast** who
 - 🎨 UI/UX design in **Figma**
 - 🌱 Currently leveling up in **Next.js, cloud & DevOps**
 - 🤝 Open to **freelance work, internships & collaborations**
+- 📫 Reach me at **[nedjoudestin6@gmail.com](mailto:nedjoudestin6@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/nedjou-destin-tresor-157494353)**
 
 </td>
 <td width="42%" align="center">
@@ -55,9 +56,9 @@ I'm a **full-stack web & mobile developer** and **cybersecurity enthusiast** who
 
 <p align="left">
   <a href="https://github.com/NEDJOU666"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:nedjoudestin6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nedjou-destin-tresor-157494353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <!-- ✏️ Fill in your details, then delete the comment markers around the badges you want:
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   -->
